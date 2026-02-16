@@ -15,7 +15,7 @@ export default function Home() {
                 }}
             >
                 <h1 style={{ color: "white", fontSize: "40px" }}>
-                    Trisha May Monera
+                    Rotchen Espinosa
                 </h1>
             </div>
         </>
